@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Lanista.Runner/Lanista.Runner.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Lanista.Runner.Tests/Lanista.Runner.Tests.csproj" />
+  </Folder>
+</Solution>
